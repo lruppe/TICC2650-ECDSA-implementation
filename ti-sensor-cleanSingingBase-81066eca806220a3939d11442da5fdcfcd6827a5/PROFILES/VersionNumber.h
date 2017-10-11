@@ -1,0 +1,2 @@
+#define VERSION_NUMBER_MAJOR     0x00
+#define VERSION_NUMBER_MINOR     0x05
